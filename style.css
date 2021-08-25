@@ -1,0 +1,44 @@
+body{
+    background: pink
+}
+
+h1{
+    font-size: 75px;
+    text-align: center;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+h2{
+    -webkit-text-stroke-color: hotpink;
+    -webkit-text-stroke-width: 0.55px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.about_us{
+    background: blanchedalmond;
+    font-size: 22px;
+    padding: 10px; 
+    border: 4px  solid silver;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+}
+
+h3{
+    font-size: 35px;
+    margin-right: 750px;
+    text-align: center;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 30px;
+}
+
+.warning{
+    font-size: 40px;
+}
